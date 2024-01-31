@@ -1,6 +1,4 @@
-# Movie Adda
-
-Welcome to Movie Adda - your go-to platform for exploring and managing your favorite movies! This MERN (MongoDB, Express.js, React.js, Node.js) stack project allows users to log in, view movie details fetched from an external API, and manage their list of favorite movies.
+# QuadMovie
 
 ## Table of Contents
 
@@ -8,8 +6,6 @@ Welcome to Movie Adda - your go-to platform for exploring and managing your favo
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -47,8 +43,7 @@ Welcome to Movie Adda - your go-to platform for exploring and managing your favo
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/raghav1482/MvADDA.git]
-   cd mvadda
+   git clone [https://github.com/raghav1482/QuadMovie]
 ## Install server dependencies
 - cd backend
 - npm install
@@ -74,7 +69,3 @@ Create a `.env` file in the `server` directory and add the following environment
 DATABASE=your_database_connection_string
 
 ```
-
-## Contributing to Movie Adda
-
-🎉 We welcome your contributions to make this project even better. 🎉
